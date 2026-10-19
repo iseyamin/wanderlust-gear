@@ -67,7 +67,10 @@ color: wheat;
     font-size: 1rem;
 }
 .camera-box{
-    background-image: image("images/circle design.svg");
+    background-image: url("../images/Circle-design.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
 }
 .banner-footer{
     max-width: 1220px;
